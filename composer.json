@@ -15,7 +15,9 @@
         }
     },
     "require": {
-        "php": "^7.2"
+        "php": "^7.2",
+        "psr/container": "^1.0",
+        "chiron/reflection": "^0.2"
     },
     "require-dev": {
         "phpunit/phpunit": "^8.0",
